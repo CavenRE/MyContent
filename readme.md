@@ -1,5 +1,3 @@
-# Help - How to Use This Site
-
 ## Available Commands
 To navigate the site, type one of the following commands into the terminal input and press Enter:
 

@@ -1,5 +1,3 @@
-# Skills
-
 🖥️ **Core Programming Languages:**
 - PHP/Laravel
 - JavaScript

@@ -1,5 +1,3 @@
-# About Us
-
 👨‍💻 **Who I Am:**
 I'm a seasoned software developer with nearly two decades of experience in the tech industry. My journey has been driven by a passion for solving complex problems and crafting seamless user experiences.
 

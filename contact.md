@@ -1,5 +1,3 @@
-# Contact Me
-
 If you're interested in collaborating or if you have any questions, feel free to reach out. 
 
 📧 **Email Me:** [work@cavenre.dev](mailto:work@cavenre.dev)
