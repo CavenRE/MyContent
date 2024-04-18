@@ -1,4 +1,5 @@
-Hello there! Glad you've landed at **CavenRE**. This little site started because I needed a platform of my own and also wanted to experiment with something cool—like building with **HTMX**! As you can see, the project kind of took on a life of its own. 😄
+Hello there! Glad you've landed at **CavenRE**. 
+This little site started because I needed a platform of my own and also wanted to experiment with something cool—like building with **HTMX**! As you can see, the project kind of took on a life of its own. 😄
 
 I'm a developer with a passion for all things tech and problem-solving. Every project offers a new challenge, and that's just the way I like it. I’m a freelancer, so if you're in need of someone who can get things done, consider hitting up the `contact` command for more details.
 
