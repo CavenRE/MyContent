@@ -1,4 +1,4 @@
-Welcome to **CavenRE!**. 
+Welcome to **CavenRE!**
 Ok, os just pushing up for some testing and things.
 
 This little site started because I needed a platform of my own and also wanted to experiment with something cool—like building with **HTMX**! As you can see, the project kind of took on a life of its own. 😄
